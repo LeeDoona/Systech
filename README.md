@@ -1,6 +1,5 @@
 # Systech
 This is Kookmin Uiv computerscience lab. See the following link.
-
 http://systech.cs.kookmin.ac.kr/
 
 lab1. Signals and signal processing
